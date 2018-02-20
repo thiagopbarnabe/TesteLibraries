@@ -1,0 +1,13 @@
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\ClassLibrary1\bin\Debug\Microsoft.Owin.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\ClassLibrary1\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\ClassLibrary1\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\ClassLibrary1\bin\Debug\Owin.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\ClassLibrary1\bin\Debug\Microsoft.Owin.xml
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\ClassLibrary1\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\ClassLibrary1\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

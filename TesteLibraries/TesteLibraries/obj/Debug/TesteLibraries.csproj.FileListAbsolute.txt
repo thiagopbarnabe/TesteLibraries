@@ -1,0 +1,16 @@
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\TesteLibraries\bin\Debug\TesteLibraries.exe.config
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\TesteLibraries\bin\Debug\TesteLibraries.exe
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\TesteLibraries\bin\Debug\TesteLibraries.pdb
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\TesteLibraries\bin\Debug\ClassLibrary1.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\TesteLibraries\bin\Debug\Owin.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\TesteLibraries\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\TesteLibraries\bin\Debug\Microsoft.Owin.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\TesteLibraries\bin\Debug\ClassLibrary1.pdb
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\TesteLibraries\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\TesteLibraries\bin\Debug\Microsoft.Owin.xml
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\TesteLibraries\obj\Debug\TesteLibraries.csprojResolveAssemblyReference.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\TesteLibraries\obj\Debug\TesteLibraries.csproj.CoreCompileInputs.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\TesteLibraries\obj\Debug\TesteLibraries.exe
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\TesteLibraries\obj\Debug\TesteLibraries.pdb
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\TesteLibraries\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\TesteLibraries\bin\Debug\Microsoft.Owin.Host.HttpListener.xml

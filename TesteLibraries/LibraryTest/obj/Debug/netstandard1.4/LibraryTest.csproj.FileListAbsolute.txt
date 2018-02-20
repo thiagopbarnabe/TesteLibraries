@@ -1,0 +1,8 @@
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\LibraryTest\bin\Debug\netstandard1.4\LibraryTest.deps.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\LibraryTest\bin\Debug\netstandard1.4\LibraryTest.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\LibraryTest\bin\Debug\netstandard1.4\LibraryTest.pdb
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\LibraryTest\obj\Debug\netstandard1.4\LibraryTest.csprojResolveAssemblyReference.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\LibraryTest\obj\Debug\netstandard1.4\LibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\LibraryTest\obj\Debug\netstandard1.4\LibraryTest.AssemblyInfo.cs
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\LibraryTest\obj\Debug\netstandard1.4\LibraryTest.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\TesteLibraries\TesteLibraries\LibraryTest\obj\Debug\netstandard1.4\LibraryTest.pdb
